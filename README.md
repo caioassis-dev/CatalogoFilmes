@@ -1,5 +1,5 @@
 
-#  🎬 Catálogo de filmes TOP 10  🎬
+#  🎬 Catálogo de filmes - TOP 10  🎬
 
 Pagina de filmes está recebendo de uma API todos os últimos lançamentos de filmes mundiais, foi feito com javascript, css e html. 
 O foco nesse projeto era entender como funcionava a conexão com a API e foi utilizado o AJAX para fazer o GET dos dados. Para visulaziar os itens dessa API usei a aplicação POSTMAN para entender um pouco melhor o seu funcionamento.
