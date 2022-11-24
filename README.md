@@ -12,3 +12,4 @@ O foco nesse projeto era entender como funcionava a conexão com a API e foi uti
   
 ### Clique na imagem para acessar:
 
+[![Anotação 2022-11-23 214502](https://user-images.githubusercontent.com/61170444/203669909-f0dc2ef6-9772-48dd-8efa-a18217e75fc7.png)](https://caioassis-dev.github.io/CatalogoFilmes/)
