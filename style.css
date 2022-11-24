@@ -1,0 +1,150 @@
+
+body{
+  background-color: rgb(196, 194, 116);
+  min-width: 600px;
+  margin: 0;
+}
+
+button{
+  border: 0;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+section{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.botoesPagina{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+.botaoChange{
+  text-decoration: None;
+  color:rgb(17, 16, 16);
+  background-color: rgb(201, 158, 65);
+  padding: 10px;
+  margin: 5px;  
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid rgb(160, 128, 59);
+  box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.418),
+  10px 10px 15px rgba(70,70,70,0.12);
+}
+
+#footer{
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(83, 83, 49);
+  font-size: medium;
+}
+
+.input{
+  background-color: rgb(196, 194, 116);
+  border: none;
+  height: 30px;
+  display: flex;
+  text-align: center;
+  align-content: flex-end;
+}
+
+.inputBotao{
+  background-color: rgb(196, 194, 116);
+  box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.397),
+  10px 10px 15px rgba(70,70,70,0.12);
+  border-color: rgb(143, 141, 85);
+  margin-left: 15px;
+  flex-wrap: nowrap;
+}
+
+.selectMovie {
+  display: flex;
+  text-align: center;
+  color: rgb(70, 67, 67);
+  align-content: flex-start;
+}
+
+#capaFilmes{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 32px;
+  max-width: 1024px;
+  font-size: large;
+  
+}
+
+.imagem{
+  border-radius: 25px;
+  border-style: groove;
+  box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.397),
+  10px 10px 15px rgba(70,70,70,0.12);
+}
+
+.cardContainer{
+  width: 176px;
+}
+
+.botaoGenero{
+  display: flex;
+  color:rgb(17, 16, 16);
+  background-color: rgb(201, 158, 65);
+  height: 35px;
+  align-items: center;
+  border-radius: 15px;
+  border: 1px solid rgb(160, 128, 59);
+  box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.418),
+  10px 10px 15px rgba(70,70,70,0.12);
+}
+
+.botaoGeneroSelecionado{
+  background-color: rgb(129, 105, 52);
+}
+
+#botoesGeneros{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+  flex-wrap: wrap;
+  max-width: 1024px;
+  gap: 15px;
+  margin-bottom: 20px;
+
+}
+.titulo{
+  color:rgb(226, 224, 153);
+  
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1024px;
+  width: 100%;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(163, 161, 59);
+  height: 56px;
+  align-items: center;
+  margin-bottom: 30px;
+}
